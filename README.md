@@ -1,5 +1,7 @@
 # mycode (Project Title)
 
+I want to learn how to speak python. Hisssss. HISSSSSSS.
+
 One Paragraph of your project description goes here. Describe what you're trying to do. What is the purpose of putting up this repo?
 
 ## Getting Started
